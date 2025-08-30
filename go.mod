@@ -1,4 +1,4 @@
-module gobot
+module github.com/sungales/gobot
 
 go 1.24.5
 
