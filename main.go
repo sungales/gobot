@@ -1,3 +1,3 @@
 package main
 
-import bot "github.com/sungales/gobot/src/bot"
+import "github.com/sungales/gobot/src/bot.go"
